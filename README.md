@@ -22,7 +22,7 @@
 ---
 
 ### **Table Structures**
-
+```sql
 CREATE TABLE ADMIN (
     USER_ID VARCHAR(50) PRIMARY KEY,
     NAME VARCHAR(50),
