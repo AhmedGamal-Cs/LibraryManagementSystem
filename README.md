@@ -23,16 +23,13 @@
 
 ### **Table Structures**
 
-#### **1. Admin Table**
-```sql
 CREATE TABLE ADMIN (
     USER_ID VARCHAR(50) PRIMARY KEY,
     NAME VARCHAR(50),
     PASSWORD VARCHAR(50),
     CONTACT VARCHAR(10)
 );
-#### **1. Book Table**
-```sql
+
 CREATE TABLE BOOKS (
     BOOK_ID VARCHAR(50) PRIMARY KEY,
     CATEGORY VARCHAR(50),
@@ -40,8 +37,7 @@ CREATE TABLE BOOKS (
     AUTHOR VARCHAR(50),
     COPIES INT
 );
-#### **1. Staff Table**
-```sql
+
 CREATE TABLE STAFFS (
     STAFF_ID VARCHAR(50) PRIMARY KEY,
     NAME VARCHAR(50),
