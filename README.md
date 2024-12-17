@@ -43,7 +43,7 @@ CREATE TABLE STAFFS (
     NAME VARCHAR(50),
     CONTACT VARCHAR(50)
 );
-
+```
 How to Run the Project
 1-Setup Database:
 
