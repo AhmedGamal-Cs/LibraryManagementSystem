@@ -1,0 +1,15 @@
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/LibraryManagementSystem.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/db/dao/BookDao.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/db/dao/Conn.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/db/dao/StaffDao.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/db/model/Book.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/db/model/Staff.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/AddBook.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/AddStaff.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/BooksAvailable.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/Dashboard.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/EditAdmin.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/Login.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/RemoveBook.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/RemoveStaff.java
+/home/ahmed/NetBeansProjects/LibraryManagementSystem/src/main/java/com/shaltout/librarymanagementsystem/view/StaffDetails.java
